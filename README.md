@@ -7,11 +7,8 @@ Masa. Es la base de la preparación y su proceso de elaboración es fundamental 
 5.Embutidos picantes
 6.Aceitunas
 7.Champiñones
-
-8.ditaly.es/ingredientes-ulizados-pizzas/
-
-
-9.Puede parecer algo irrelevante, pero el orden en el que se agregan y colocan los ingredientes en una pizza napolitana es clave para una elaboración correcta. 
+8.https://www.ditaly.es/ingredientes-utilizados-pizzas/
+9.Puede parecer algo irrelevante, pero el orden en el que se agregan y colocan los ingredientes en una pizza napolitana es clave para una elaboración cor
 10.Te lo explicamo
 11.Primero añadimos la salsa de tomate sobre la masa de nuestra pizza.
 12.Después, añadimos al gusto un queso suave, como la mozzarella, seguido de queso más fuerte.

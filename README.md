@@ -30,3 +30,5 @@
 
 * A continuación, agregamos el resto de los componentes.
 
+
+* horneala durante 10 minutos aproximadamente. deberías de vijilarla porque el tiempo final varía en función del tiempo de horno y la intensidad que tenga. y listo !!

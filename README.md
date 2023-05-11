@@ -1,32 +1,32 @@
-##hagamos-pizza
+## hagamos-pizza
 
 
-###Estos son algunos de los ingredientes básicos de la pizza!
+### Estos son algunos de los ingredientes básicos de la pizza!
 
 
 
 
 * Masa
 
-*Mozzarella
+* Mozzarella
 
-*Quesos variados
+* Quesos variados
 
-*Embutidos italianos
+* Embutidos italianos
 
-*Embutidos picantes
+* Embutidos picantes
 
-*Puede parecer algo irrelevante, pero el orden en el que se agregan
+* Puede parecer algo irrelevante, pero el orden en el que se agregan
  
-*Te lo explicamo
+* Te lo explicamo
 
-*Primero añadimos la salsa de tomate sobre la masa de nuestra pizza.
+* Primero añadimos la salsa de tomate sobre la masa de nuestra pizza.
 
-*Después, añadimos al gusto un queso suave
-
-
-*mozzarella, seguido de queso más fuerte.
+* Después, añadimos al gusto un queso suave
 
 
-*A continuación, agregamos el resto de los componentes.
+* mozzarella, seguido de queso más fuerte.
+
+
+* A continuación, agregamos el resto de los componentes.
 
